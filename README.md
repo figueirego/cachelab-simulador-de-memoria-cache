@@ -78,6 +78,14 @@ Exemplo no formato solicitado pelo enunciado:
 python3 cache_simulator.py --input data/trace.csv --policy lru --capacity 100
 ```
 
+Para executar uma política específica e ver somente o resultado dela, troque o valor de `--policy`:
+
+```bash
+python3 cache_simulator.py --input data/trace.csv --policy fifo --capacity 100
+python3 cache_simulator.py --input data/trace.csv --policy lru --capacity 100
+python3 cache_simulator.py --input data/trace.csv --policy lfu --capacity 100
+```
+
 Políticas aceitas:
 
 - `fifo`
