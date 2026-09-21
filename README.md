@@ -141,4 +141,4 @@ O simulador também não representa tamanhos variáveis de objetos, concorrênci
 
 **João Matheus** · Engenheiro de Software com foco em desenvolvimento Full Stack.
 
-[GitHub](https://github.com/figueirego) · [LinkedIn](https://www.linkedin.com/in/jomatheusdev/) · [E-mail](mailto:jomatheusdev@gmail.com)
+[GitHub](https://github.com/figueirego) · [LinkedIn](https://www.linkedin.com/in/jomatheusdev/) · [E-mail](mailto:joaomatheustav@gmail.com)
